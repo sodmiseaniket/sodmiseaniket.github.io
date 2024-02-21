@@ -68,12 +68,16 @@ Let's connect and explore the possibilities of creating a secure digital future 
 🌐 Grateful for the hands-on experience and the chance to further enhance my skills in the ever-evolving field of cybersecurity. 🛡️💪
 
 <div>
-<img src="https://img.shields.io/badge/-Google Cybersecurity Professional Certificate-007ACC?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Mastercard Cybersecurity Virtual Experience-red?&style=for-the-badge&logo=MasterCard&logoColor=yellow" />
-<img src="https://img.shields.io/badge/-Tata Group's Cybersecurity Analyst simulation-000080?&style=for-the-badge&logo=Tata&logoColor=white" />
+<a href="https://coursera.org/share/0034c9724435621a020c9dce0b76362f"><img src="https://img.shields.io/badge/-Google Cybersecurity Professional Certificate-007ACC?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<a href="https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye
+"><img src="https://img.shields.io/badge/-Mastercard Cybersecurity Virtual Experience-white?&style=for-the-badge&logo=MasterCard&logoColor=yellow" /></a>
+<a href="https://www.theforage.com/simulations/tata/cybersecurity-sbda
+"><img src="https://img.shields.io/badge/-Tata Group's Cybersecurity Analyst simulation-000080?&style=for-the-badge&logo=Tata&logoColor=white" /></a>
+
 </div>
 
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
 
