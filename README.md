@@ -27,7 +27,6 @@ Let's connect and explore the possibilities of creating a secure digital future 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab| --->
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -50,6 +49,15 @@ Let's connect and explore the possibilities of creating a secure digital future 
 </div>
 
 ## Certifications
+
+<div>
+<a href="https://coursera.org/share/0034c9724435621a020c9dce0b76362f"><img src="https://img.shields.io/badge/-Google Cybersecurity Professional Certificate-007ACC?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<a href="https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye
+"><img src="https://img.shields.io/badge/-Mastercard Cybersecurity Virtual Experience-white?&style=for-the-badge&logo=MasterCard&logoColor=yellow" /></a>
+<a href="https://www.theforage.com/simulations/tata/cybersecurity-sbda
+"><img src="https://img.shields.io/badge/-Tata Group's Cybersecurity Analyst simulation-000080?&style=for-the-badge&logo=Tata&logoColor=white" /></a>
+
+</div>
 ### Google Cybersecurity Professional Certificate on Coursera ! 
 🎓💻 This comprehensive program has equipped me with in-depth knowledge and hands-on skills in cybersecurity, covering topics such as threat detection, encryption, network security, and more. Grateful for the opportunity to learn from industry experts at Google and enhance my capabilities in the ever-evolving field of cybersecurity. Ready to apply these skills to contribute to a more secure digital landscape.
 
@@ -67,14 +75,7 @@ Let's connect and explore the possibilities of creating a secure digital future 
 📑 The journey included crafting comprehensive documentation and delivering impactful presentations, demonstrating my ability to communicate complex technical concepts effectively. 📊✨
 🌐 Grateful for the hands-on experience and the chance to further enhance my skills in the ever-evolving field of cybersecurity. 🛡️💪
 
-<div>
-<a href="https://coursera.org/share/0034c9724435621a020c9dce0b76362f"><img src="https://img.shields.io/badge/-Google Cybersecurity Professional Certificate-007ACC?&style=for-the-badge&logo=Google&logoColor=white" /></a>
-<a href="https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye
-"><img src="https://img.shields.io/badge/-Mastercard Cybersecurity Virtual Experience-white?&style=for-the-badge&logo=MasterCard&logoColor=yellow" /></a>
-<a href="https://www.theforage.com/simulations/tata/cybersecurity-sbda
-"><img src="https://img.shields.io/badge/-Tata Group's Cybersecurity Analyst simulation-000080?&style=for-the-badge&logo=Tata&logoColor=white" /></a>
 
-</div>
 
 ## Projects
 - Detection Lab
