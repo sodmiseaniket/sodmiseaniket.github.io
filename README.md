@@ -58,6 +58,7 @@ Let's connect and explore the possibilities of creating a secure digital future 
 "><img src="https://img.shields.io/badge/-Tata Group's Cybersecurity Analyst simulation-000080?&style=for-the-badge&logo=Tata&logoColor=white" /></a>
 
 </div>
+
 ### Google Cybersecurity Professional Certificate on Coursera ! 
 🎓💻 This comprehensive program has equipped me with in-depth knowledge and hands-on skills in cybersecurity, covering topics such as threat detection, encryption, network security, and more. Grateful for the opportunity to learn from industry experts at Google and enhance my capabilities in the ever-evolving field of cybersecurity. Ready to apply these skills to contribute to a more secure digital landscape.
 
