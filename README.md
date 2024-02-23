@@ -28,6 +28,10 @@ Let's connect and explore the possibilities of creating a secure digital future 
 
 ## Tools
 
+### Scripting tools
+<div>
+    <img src="https://img.shields.io/badge/-Powershell SE-1679A7?&style=for-the-badge&logo=Powershell &logoColor=blue" />
+    
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
