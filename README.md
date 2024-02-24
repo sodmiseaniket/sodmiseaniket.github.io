@@ -13,14 +13,14 @@
 
 📚 Currently pursuing my BSC in Computer Science, I am enthusiastic about staying at the forefront of technological advancements and embracing new challenges. Open to opportunities that allow me to make a meaningful impact in the field of cybersecurity.
 
-Let's connect and explore the possibilities of creating a secure digital future together!
-<!--- ## Skills
+Let's connect and explore the possibilities of creating a secure digital future together!## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Powershell                                    | <a href="https://github.com/sodmiseaniket/PowerShell-File-Integrity-Monitoring-FIM-System">Powershell File Integrity Monitoring System</a>|
+
+<!--- | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -30,7 +30,7 @@ Let's connect and explore the possibilities of creating a secure digital future 
 
 ### Scripting tools
 <div>
-    <img src="https://img.shields.io/badge/-Powershell SE-1679A7?&style=for-the-badge&logo=Powershell &logoColor=blue" />
+    <a href="https://github.com/sodmiseaniket/PowerShell-File-Integrity-Monitoring-FIM-System"> <img src="https://img.shields.io/badge/-Powershell ISE-1679A7?&style=for-the-badge&logo=Powershell &logoColor=blue" /> </a>
     
 ### Network
 <div>
@@ -83,7 +83,7 @@ Let's connect and explore the possibilities of creating a secure digital future 
 
 
 ## Projects
-- Detection Lab
+-<a href="https://github.com/sodmiseaniket/PowerShell-File-Integrity-Monitoring-FIM-System">Powershell File Integrity Monitoring System</a>
 - SOC Automation Project
 
 
