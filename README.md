@@ -83,7 +83,7 @@ Let's connect and explore the possibilities of creating a secure digital future 
 
 
 ## Projects
--<a href="https://github.com/sodmiseaniket/PowerShell-File-Integrity-Monitoring-FIM-System">Powershell File Integrity Monitoring System</a>
+- <a href="https://github.com/sodmiseaniket/PowerShell-File-Integrity-Monitoring-FIM-System">Powershell File Integrity Monitoring System</a>
 - SOC Automation Project
 
 
